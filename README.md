@@ -28,6 +28,7 @@ Input:
     plt.show()
 
 Predicted Output:
+
 ![diagram](diagram.png)
 
 
