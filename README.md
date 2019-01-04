@@ -11,9 +11,6 @@
 1. Library instalation via. pip: pip install name_of_library
     * ex: pip install pandas
 
-# Add python script to path:
-  ../Python/zadanie1_cognitive
-
 # Usage:
 Input:
     filtred_data.plot(
