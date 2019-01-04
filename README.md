@@ -6,12 +6,9 @@ and plot it on diagram.
 
 # Instalation:
 1. python 3.x
-2. pip install name of library
-    ex: pip install pandas
-
-# Library:
-Python library needed:
-pandas,matplotlib,numpy,statsmodels
+2. Python library: pandas,matplotlib,numpy,statsmodels
+    pip install name of library
+        ex: pip install pandas
 
 # Add python script to path:
   ../Python/zadanie1_cognitive
