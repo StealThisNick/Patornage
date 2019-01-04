@@ -4,11 +4,8 @@
 2. Python script are taking .csv file, filter it from missing data and estimate salary, on colums 'workedYears' and 'salaryBrutto', and plot it on diagram.
 
 # Requirments:
-1. python 3.x
-2. pip
-
-# Library:
-1. Python library: pandas,matplotlib,numpy,statsmodels
+* python 3.x
+* pip
 
 # Instalation:
 1. Library instalation via. pip: pip install name_of_library
